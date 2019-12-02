@@ -3,3 +3,6 @@
 3. third script line
 4. this line is added too in script 1 by Blazej
 5. adding this one 
+6 is empty
+7 is not empty 
+8 why is that Blazej?
