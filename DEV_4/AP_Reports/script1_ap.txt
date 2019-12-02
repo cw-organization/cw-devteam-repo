@@ -1,0 +1,6 @@
+1. first script line
+2. second script line
+3. third script line
+4. this line is added too in script 1 by Blazej
+5. adding this one 
+6. adding line with comments done by Blazej
