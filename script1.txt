@@ -6,3 +6,4 @@
 6 is empty
 7 is not empty 
 8 why is that Blazej?
+9 dunno
